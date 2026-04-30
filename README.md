@@ -16,7 +16,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🔍 About Me
 
 * 💻 Sysadmin with Linux experience
 * ☁️ Learning cloud infrastructures
@@ -26,7 +26,7 @@
 
 ---
 
-## 🔧 Stack
+## ⚙️ Stack
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge\&logo=gnu-bash\&logoColor=white)
