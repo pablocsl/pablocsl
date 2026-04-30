@@ -2,9 +2,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=pablocsl\&label=Profile%20views\&color=0e75b6\&style=flat)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pablocsl\&show_icons=true\&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=pablocsl\&theme=tokyonight)
+<p align="center">
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="400" />
+</p>
 
 ---
 
@@ -55,7 +55,7 @@
 
 ## 📫 Connect with me
 
-* GitHub: your-username
+* GitHub: pablocsl
 * LinkedIn: your-link
 
 ---
