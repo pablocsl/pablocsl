@@ -12,11 +12,7 @@
   </a>
 </p>
 
-<p align="right">
-  <img src="https://app.lottiefiles.com/share/b2faf384-9eca-4f31-82f4-c843ec750b6f" width="220" />
-</p>
-
-![Profile Views](https://komarev.com/ghpvc/?username=your-username\&label=Profile%20views\&color=0e75b6\&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=pablocsl\&label=Profile%20views\&color=0e75b6\&style=flat)
 
 ---
 
