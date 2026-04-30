@@ -1,10 +1,10 @@
 # 👋 Hi, I'm a Sysadmin transitioning into DevOps
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username\&label=Profile%20views\&color=0e75b6\&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=pablocsl\&label=Profile%20views\&color=0e75b6\&style=flat)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pablocsl\&show_icons=true\&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=your-username\&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=pablocsl\&theme=tokyonight)
 
 ---
 
