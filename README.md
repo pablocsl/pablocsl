@@ -2,6 +2,7 @@
   👋🏼 Hi, I'm Pablo Casal
 </h1>
 
+
 <p align="center">
   <a href="https://www.linkedin.com/in/pablo-casal-moscosio-54410630b/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -14,7 +15,6 @@
   </a>
 </p>
 
----
 
 ## 🔍 About Me
 
@@ -24,7 +24,6 @@
 * 🚀 Building and deploying development projects
 * 🔒 Improving security systems
 
----
 
 ## ⚙️ Stack
 
@@ -37,6 +36,5 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge\&logo=virtualbox\&logoColor=white)
 
----
 
 > 🔧 Building. Learning. Deploying.
