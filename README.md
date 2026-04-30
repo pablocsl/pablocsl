@@ -1,16 +1,63 @@
-## Hi there 👋
+# 👋 Hi, I'm a Sysadmin transitioning into DevOps
 
-<!--
-**pablocsl/pablocsl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=your-username\&label=Profile%20views\&color=0e75b6\&style=flat)
 
-Here are some ideas to get you started:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username\&show_icons=true\&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Streak](https://streak-stats.demolab.com?user=your-username\&theme=tokyonight)
+
+---
+
+🚀 Sysadmin moving into DevOps | 🔧 Building and automating infrastructure
+
+---
+
+## 🧑‍💻 About Me
+
+* 🐧 Sysadmin with Linux experience
+* ☁️ Currently learning DevOps
+* 🔧 Interested in automation and infrastructure
+* 💻 I also like building small development projects
+* 🚀 Focused on improving and deploying systems
+
+---
+
+## ⚙️ What I'm learning
+
+* CI/CD pipelines
+* Docker and containers
+* Infrastructure as Code (IaC)
+* Cloud fundamentals (AWS / Azure basics)
+* Automation with scripts
+
+---
+
+## 🧰 Tech Stack
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge\&logo=gnu-bash\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge\&logo=wordpress\&logoColor=white)
+
+---
+
+## 🚀 Goals
+
+* Become a DevOps Engineer
+* Master cloud platforms (AWS / Azure)
+* Improve automation and infrastructure scalability
+* Work on real-world DevOps projects
+* Contribute to open source
+
+---
+
+## 📫 Connect with me
+
+* GitHub: your-username
+* LinkedIn: your-link
+
+---
+
+> 🔧 Building. Learning. Deploying.
