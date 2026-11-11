@@ -80,7 +80,6 @@ I come from the **systems administration** side of IT, and that foundation shape
 
 **Tools**
 
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 ![Wazuh](https://img.shields.io/badge/Wazuh-0078D4?style=for-the-badge&logo=wazuh&logoColor=white)
 ![Elastic Stack](https://img.shields.io/badge/Elastic_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
@@ -91,16 +90,6 @@ I come from the **systems administration** side of IT, and that foundation shape
 ![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white)
 ![Shodan](https://img.shields.io/badge/Shodan-B22222?style=for-the-badge)
 
-**Practices**
-
-![SOC](https://img.shields.io/badge/SOC-0A66C2?style=for-the-badge)
-![Incident Response](https://img.shields.io/badge/Incident_Response-0A66C2?style=for-the-badge)
-![Log Analysis](https://img.shields.io/badge/Log_Analysis-0A66C2?style=for-the-badge)
-![Threat Intelligence](https://img.shields.io/badge/Threat_Intelligence-0A66C2?style=for-the-badge)
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-0A66C2?style=for-the-badge)
-![DFIR](https://img.shields.io/badge/DFIR-0A66C2?style=for-the-badge)
-![Vulnerability Management](https://img.shields.io/badge/Vulnerability_Management-0A66C2?style=for-the-badge)
-![Hardening](https://img.shields.io/badge/Hardening-0A66C2?style=for-the-badge)
 
 ## 📚 Currently
 
