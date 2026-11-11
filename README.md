@@ -1,38 +1,89 @@
-<h1 align="center">
-  👋🏼 Hi, I'm Pablo Casal
-</h1>
+<h1 align="center">Pablo Casal</h1>
+
+<p align="center">
+  <b>Cybersecurity Analyst · SOC · Linux &amp; Systems Administration</b>
+</p>
+
+<p align="center">
+  Systems administrator with a Linux background, focused on security monitoring,<br>
+  log analysis, threat intelligence and hardening, with a strong automation mindset.
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pablo-casal-moscosio-54410630b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:pabloocasalm@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/pablocsl">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
+---
+
 ## 🔍 About Me
 
-* 💻 Sysadmin with Linux experience
-* ☁️ Learning cloud infrastructures
-* 🔧 Interested in automation
-* 🚀 Building and deploying development projects
-* 🔒 Improving security systems
+I come from the **systems administration** side of IT, and that foundation shapes how I approach security: you defend better what you understand from the inside. I am building my career around **blue team and SOC work**, combining solid Linux and infrastructure knowledge with security analysis and automation.
 
-## ⚙️ Stack
+## 🎯 Focus Areas
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge\&logo=gnu-bash\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge\&logo=nginx\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge\&logo=virtualbox\&logoColor=white)
+| Area | What I work on |
+|---|---|
+| 🛡️ **Security Operations (SOC)** | Alert triage, log analysis, IOC extraction and enrichment, failed-logon and brute-force detection |
+| 🕵️ **Threat Intelligence & DFIR** | Reputation and exposure lookups (VirusTotal, Shodan, AbuseIPDB), file integrity monitoring, evidence handling |
+| 🐧 **Linux & Systems** | Administration, service configuration, permissions and SUID auditing, system hardening, virtualization |
+| 🪟 **Windows Security** | Event log analysis (4625), Defender and firewall posture, RDP exposure, local admin and persistence review |
+| ⚙️ **Automation** | Bash and Python tooling to remove repetitive analyst work |
+| ☁️ **Cloud** | Currently learning cloud infrastructure and its security model |
+
+## 🚀 Featured Project
+
+### [SOCBox](https://github.com/pablocsl/socbox)
+> All-in-one interactive security toolkit for SOC analysts, built in Python. Runs on Windows, Linux and macOS and adapts its tools and default paths to the operating system.
+
+- **Crypto & Hashes:** AES-256-GCM file encryption, hashing, password auditing with breach check (k-anonymity)
+- **Analysis & DFIR:** IOC extraction, SSH and Windows failed-logon analysis, web log attack-pattern detection, file integrity baselines
+- **Local Audit:** system information, Windows security audit, SUID and permissions review, port scanner
+- **Threat Intel:** VirusTotal (files, URLs, IPs, domains, hashes), Shodan, AbuseIPDB, WHOIS/RDAP, TLS and HTTP header checks
+
+## ⚙️ Tech Stack
+
+**Systems & Infrastructure**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Scripting & Automation**
+
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Security**
+
+![SOC](https://img.shields.io/badge/SOC-0A66C2?style=for-the-badge)
+![Log Analysis](https://img.shields.io/badge/Log_Analysis-0A66C2?style=for-the-badge)
+![Threat Intelligence](https://img.shields.io/badge/Threat_Intelligence-0A66C2?style=for-the-badge)
+![DFIR](https://img.shields.io/badge/DFIR-0A66C2?style=for-the-badge)
+![Hardening](https://img.shields.io/badge/Hardening-0A66C2?style=for-the-badge)
+![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white)
+
+## 📚 Currently
+
+- 🔒 Strengthening detection and hardening skills for SOC environments
+- ☁️ Learning cloud infrastructure and cloud security fundamentals
+- 🤖 Automating analyst workflows with Python and Bash
+- 🧪 Building and testing in home-lab virtual environments
 
 ---
 
-> 🔧 Building. Learning. Deploying.
+<p align="center">
+  <i>Defend. Automate. Keep learning.</i>
+</p>
