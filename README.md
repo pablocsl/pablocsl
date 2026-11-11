@@ -1,7 +1,7 @@
 <h1 align="center">Pablo Casal</h1>
 
 <p align="center">
-  <b>Cybersecurity Analyst · SOC · Linux &amp; Systems Administration</b>
+  <b>Cybersecurity Analyst | SOC | Linux Sysadmin | Automation &amp; Infrastructure</b>
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@
 
 ## 🔍 About Me
 
-I come from the **systems administration** side of IT, and that foundation shapes how I approach security: you defend better what you understand from the inside. I am building my career around **blue team and SOC work**, combining solid Linux and infrastructure knowledge with security analysis and automation.
+I come from the **systems administration** side of IT, and that foundation shapes how I approach security: you defend better what you understand from the inside. I am building my career around **blue team and SOC work**, combining solid Linux and infrastructure knowledge with security analysis and automation. I also have working knowledge of cloud infrastructure fundamentals across several providers, which helps me reason about modern hybrid environments.
 
 ## 🎯 Focus Areas
 
@@ -36,7 +36,7 @@ I come from the **systems administration** side of IT, and that foundation shape
 | 🐧 **Linux & Systems** | Administration, service configuration, permissions and SUID auditing, system hardening, virtualization |
 | 🪟 **Windows Security** | Event log analysis (4625), Defender and firewall posture, RDP exposure, local admin and persistence review |
 | ⚙️ **Automation** | Bash and Python tooling to remove repetitive analyst work |
-| ☁️ **Cloud** | Currently learning cloud infrastructure and its security model |
+| ☁️ **Cloud Fundamentals** | Working knowledge of major cloud providers: core services, identity and access, and the shared responsibility model |
 
 ## 🚀 Featured Project
 
@@ -50,35 +50,61 @@ I come from the **systems administration** side of IT, and that foundation shape
 
 ## ⚙️ Tech Stack
 
-**Systems & Infrastructure**
+### Systems & Infrastructure
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Networking](https://img.shields.io/badge/TCP%2FIP_%C2%B7_DNS_%C2%B7_Firewalls-4B5563?style=for-the-badge)
+![Cloud](https://img.shields.io/badge/Cloud_Fundamentals-4B5563?style=for-the-badge)
 
-**Scripting & Automation**
+### Scripting & Automation
 
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Regex](https://img.shields.io/badge/Regex-4B5563?style=for-the-badge)
+![REST APIs](https://img.shields.io/badge/REST_APIs-4B5563?style=for-the-badge)
+![Cron](https://img.shields.io/badge/Cron_%C2%B7_systemd-4B5563?style=for-the-badge)
 
-**Security**
+### Security
+
+**Tools**
+
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-0078D4?style=for-the-badge&logo=wazuh&logoColor=white)
+![Elastic Stack](https://img.shields.io/badge/Elastic_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4B5563?style=for-the-badge)
+![Suricata](https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white)
+![Shodan](https://img.shields.io/badge/Shodan-B22222?style=for-the-badge)
+
+**Practices**
 
 ![SOC](https://img.shields.io/badge/SOC-0A66C2?style=for-the-badge)
+![Incident Response](https://img.shields.io/badge/Incident_Response-0A66C2?style=for-the-badge)
 ![Log Analysis](https://img.shields.io/badge/Log_Analysis-0A66C2?style=for-the-badge)
 ![Threat Intelligence](https://img.shields.io/badge/Threat_Intelligence-0A66C2?style=for-the-badge)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-0A66C2?style=for-the-badge)
 ![DFIR](https://img.shields.io/badge/DFIR-0A66C2?style=for-the-badge)
+![Vulnerability Management](https://img.shields.io/badge/Vulnerability_Management-0A66C2?style=for-the-badge)
 ![Hardening](https://img.shields.io/badge/Hardening-0A66C2?style=for-the-badge)
-![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white)
 
 ## 📚 Currently
 
 - 🔒 Strengthening detection and hardening skills for SOC environments
-- ☁️ Learning cloud infrastructure and cloud security fundamentals
 - 🤖 Automating analyst workflows with Python and Bash
 - 🧪 Building and testing in home-lab virtual environments
 
